@@ -3,7 +3,8 @@ html, body {
     font-family: Arial;
     margin: 0;
     padding: 0;
-    border-width: 15%;
+    border-left-width: 15%;
+    border-right-width: 15%;
 }
 
 header {
@@ -14,5 +15,5 @@ header {
 }
 
 #titre_bannière {
-    color: burlywood;
+    color: brown;
 }
