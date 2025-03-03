@@ -3,14 +3,14 @@ html, body {
     font-family: Arial;
     margin: 0;
     padding: 0;
-    border-left-width: 15%;
-    border-right-width: 15%;
 }
 
 header {
     background-color: #353535;
     width: 100%;
     height: 70px;
+    margin-right: 15%;
+    margin-left: 15%;
     color: #FFFFFF;
 }
 
