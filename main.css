@@ -31,7 +31,7 @@ nav > ul > li > a{
 }
 
 nav li{
-    display: none;
+    list-style-type: none;
 }
 
 .submenu{
