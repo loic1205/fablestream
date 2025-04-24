@@ -47,77 +47,101 @@ The Gardener and The Winnower fought and brought down the Tree of Silver Wings a
 
 
 
-<!-- la création de l'univers et la poursuite d'un conflit -->
+<!-- la création de l'univers et l'apparition de nouvelles forces dans l'univers -->
 
 
 
 
-If rumours are to be believed, this conflict also brought about the escape of primal patterns that survived and took root in the universe with an aim of 
-survival at all costs. These were known as The Vex and though you might know them by their brass 
-frames, they are actually the tiniest of molecular life built into a connected consensus. Radiolarian 
-structures creating grand designs. This story of The Gardener and Winnower and their 
-conflict was told to us through some of our first interactions with The Black Fleet. The great 
-Pyramid Vessels of our most ancient enemy. It gives us some of our only potential ideas about what 
-occurred at the start of the universe. Whether this story is true or not is still debated to this day, 
-but what is not debated is that the primal forces that The Gardener and Winnower supposedly aligned 
-with are very real. The Gardener seemingly was aligned with the Light, a power associated with 
-the physical universe, creation, and chaos. Matter, Gravity, Energy. The Winnower seemed to be aligned 
-with the Darkness, which is associated with control and the domain of the mind. One's will, 
-dreams, and nightmares. These powers of The Light and The Dark are known to supersede the typical 
-laws of the universe, bending and breaking those laws of physics and matter on the whims of 
-those that use these powers of light and dark they sidestep causality and for these reasons 
-individuals who wield the light and dark are referred to as paracausal or acausal we we may not 
-know whether the light and dark truly originated with the mythical Gardner and Wier but we do know 
-that these powers are found in the universe in a pair of ancient presences incomprehensible things 
-entities of A Sort they are the traveler which is a source of the light and the veil which is 
-a source of the darkness when these two great constructs were created is unclear but our story 
-truly begins with their Discovery by an ancient and unnamed people long ago for the purposes of 
-our story I shall simply call them the precursors to all that would follow the precursors were 
-once Nomads who would wander across their home world to survive that was until the day they 
-discovered something buried in the wastes of their world they discovered the traveler it 
-blessed this precursor civilization with the Bounty that it would provide to thousands of 
-others before eventually reaching Humanity the nomadic precursors Advanced their technology 
-and Society under the silent benevolence of the traveler but whilst it doted on them with many 
-gifts its silence meant that the precursors were left with little in the way of guidance they had 
-been given abundance but no meaning or Direction their search for meaning defined their entire 
-Society all of them were seeking to understand how to bring about a perfect Universe many 
-factions would search for this simple idea and how it might be accomplished they called it 
-the final shape after much time the scholars of the precursor people discovered that the traveler 
-shared a connection to another great structure out in the deepest reaches of space this was the 
-veil and they rushed to claim it after they were made aware of its existence realizing that 
-whilst The Traveler presented the powers of the light the veil presented the powers of something 
-very different Darkness to the precursor people this discovery was meant to change everything for 
-the better they knew much about the light of the traveler they knew of the bounty it could bring 
-but they also knew that the light bred chaos and destruction when untamed and unchecked through the 
-veil they learned the power of darkness and saw that through its ability to control the merging of 
-the two might create a degree of autonomy over the universe that had never before been conceived of 
-they aspired in that moment to Control the Chaos of the Traveler's light by strengthening its 
-connection to the veil and merging the two If Only They had succeeded they might at last have 
-forged the final shape that they had conceived of so long ago but when they attempted to forge 
-this connection The Traveler rejected the link and abandoned the precursor people what happened next 
-must have been the most calamitous time within the precursor Society Terror and uncertainty must 
-have spread through their minds there must have been bitterness there must have been hatred but 
-no matter what they felt what happened next would bring the ruin that they had experienced to Untold 
-trillions across the Stars the precursor people having been abandoned by the light turned to the 
-powers of Darkness for salvation understand that the light is not iner inly good and the Darkness 
-is not inherently evil but the precursors were fueled by hatred and their desperation spoke 
-for itself recovered records indicate that a group amongst them known as the penitent struck 
-down all others who dissented against their ways they believed that they were meant to fix the 
-universe and create the final shape regardless of whether the universe consented or not they 
-used the powers within Darkness to merge their consciousnesses together into to a compound being 
-of immense power their assimilation spelled an end to the precursor civilization and gave rise 
-to a wretched thing born of a bottomless hatred of the traveler this entity would be known by 
-a thousand names over a thousand worlds all of them burned to nothingness over the course of its 
-existence we would one day come to know it as the witness and so it set out into the Stars to pursue 
-the travel traveler with it the witness took the vessels of the civilization that had brought about 
-its creation an armada of obsidian Black Pyramid vessels which represented destruction Untold along 
-with this black Fleet the witness brought the veil pursuing The Traveler with the same intent as 
-its precursor creators the witness would see the combination of light and darkness and with 
-it a world without change a world without chaos would be brought about an immutable perfected 
-final shape to the universe and this time unlike the precursors the witness would not seek the 
-final shape out of a need for Perfection alone it would seek it out of a desire to subjugate The 
-Traveler and all those that might oppose its will but if it was to succeed the witness would need to 
-gather adherence to its cause disciples that would help pave the way for its purpose that is what 
+If rumours are to be believed, this conflict also brought about the escape of primal patterns that survived
+and took root in the universe with an aim of survival at all costs. 
+These were known as The Vex and though you might know them by their brass frames, 
+they are actually the tiniest of molecular life built into a connected consensus. 
+Radiolarian structures creating grand designs. 
+
+This story of The Gardener and Winnower and their conflict was told to us through some of our first interactions with The Black Fleet. 
+The great Pyramid Vessels of our most ancient enemy. It gives us some of our only potential ideas about what occurred at the start of the universe. 
+hether this story is true or not is still debated to this day, 
+but what is not debated is that the primal forces that The Gardener and Winnower supposedly aligned with are very real. 
+The Gardener seemingly was aligned with the Light, a power associated with the physical universe, creation, and chaos. Matter, Gravity, Energy. 
+The Winnower seemed to be aligned with the Darkness, which is associated with control and the domain of the mind, One's will, dreams, and nightmares. 
+These powers of The Light and The Dark are known to supersede the typical laws of the universe, 
+bending and breaking those laws of physics and matter on the whims of those that use these powers of light and dark,
+they sidestep causality and for these reasons individuals who wield the light and dark are referred to as paracausal or acausal 
+
+
+
+
+<!-- La première civilisation paracausale -->
+
+
+
+
+these powers are found in the universe in a pair of ancient presences incomprehensible things entities of A Sort 
+they are the traveler which is a source of the light 
+and the veil which is a source of the darkness 
+when these two great constructs were created is unclear 
+but our story truly begins with their Discovery by an ancient and unnamed people long ago 
+for the purposes of our story I shall simply call them the precursors 
+to all that would follow the precursors were once Nomads who would wander across their home world to survive 
+that was until the day they discovered something buried in the wastes of their world 
+they discovered the traveler, it blessed this precursor civilization with the Bounty that it would provide to thousands of others 
+the nomadic precursors Advanced their technology and Society under the silent benevolence of the traveler 
+but whilst it doted on them with many gifts its silence meant that the precursors were left with little in the way of guidance 
+they had been given abundance but no meaning or Direction their search for meaning defined their entire Society 
+all of them were seeking to understand how to bring about a perfect Universe 
+many factions would search for this simple idea and how it might be accomplished they called it the final shape 
+after much time the scholars of the precursor people discovered that the traveler shared a connection to another great structure 
+out in the deepest reaches of space this was the veil 
+and they rushed to claim it after they were made aware of its existence 
+realizing that whilst The Traveler presented the powers of the light 
+the veil presented the powers of something very different, Darkness, 
+to the precursor people this discovery was meant to change everything for the better 
+they knew much about the light of the traveler they knew of the bounty it could bring 
+but they also knew that the light bred chaos and destruction when untamed and unchecked 
+through the veil they learned the power of darkness and saw that through its ability to control 
+the merging of the two might create a degree of autonomy over the universe that had never before been conceived of 
+they aspired in that moment to Control the Chaos of the Traveler's light by strengthening its connection to the veil and merging the two 
+
+
+
+
+<!-- La poursuite du conflit entre lumière et Ténèbres -->
+
+
+
+
+If Only They had succeeded they might at last have forged the final shape that they had conceived of so long ago 
+but when they attempted to forge this connection The Traveler rejected the link and abandoned the precursor people 
+what happened next must have been the most calamitous time within the precursor Society 
+Terror and uncertainty must have spread through their minds there must have been bitterness there must have been hatred
+but no matter what they felt, what happened next would bring the ruin that they had experienced to Untold trillions across the Stars 
+the precursor people having been abandoned by the light turned to the powers of Darkness for salvation 
+understand that the light is not inherently good and the Darkness is not inherently evil 
+but the precursors were fueled by hatred and their desperation spoke for itself 
+recovered records indicate that a group amongst them known as the penitent struck down all others who dissented against their ways 
+they believed that they were meant to fix the universe and create the final shape regardless of whether the universe consented or not 
+they used the powers within Darkness to merge their consciousnesses together into a compound being of immense power 
+their assimilation spelled an end to the precursor civilization and gave rise to a wretched thing born of a bottomless hatred of the traveler 
+this entity would be known by a thousand names over a thousand worlds all of them burned to nothingness over the course of its existence 
+we would one day come to know it as the witness and so it set out into the Stars to pursue the traveler 
+the witness took the vessels of the civilization that had brought about its creation 
+an armada of obsidian Black Pyramid vessels which represented destruction Untold 
+along with this black Fleet the witness brought the veil pursuing The Traveler with the same intent as its precursor 
+the witness would see the combination of light and darkness
+and with it a world without change a world without chaos would be brought about 
+an immutable perfected final shape to the universe and this time unlike the precursors 
+the witness would not seek the final shape out of a need for Perfection alone 
+it would seek it out of a desire to subjugate The Traveler and all those that might oppose its will 
+
+
+
+
+<!--  -->
+
+
+
+
+but if it was to succeed the witness would need to gather adherence to its cause disciples that would help pave the way for its purpose that is what 
 led to the rise of the first disciple and they would not call him a conqueror or a mere Tyrant 
 he was worse he would be known as the subjugator after the traveler had left the precursor people 
 to their fate it enacted a pattern that it would follow for eons to come it would move onward 
