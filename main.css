@@ -6,7 +6,10 @@ body {
 }
 
 nav {
-    background-color: #353535;
+    background-image: url('src/img/background-navbar.jpg'); /* chemin relatif ou absolu */
+    background-size: cover;      /* couvre tout l'espace */
+    background-position: center; /* centre l'image */
+    background-repeat: no-repeat;    
     width: 100%;
     position: fixed; 
     top: 0;           /* <-- pour le coller en haut */
