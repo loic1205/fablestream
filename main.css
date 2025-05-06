@@ -2,11 +2,16 @@ body {
     font-family: 'Source code pro', Calibri, serif;
     margin: 0;
     padding: 0;
+    padding-top: 70px; /* <-- ajustez selon la hauteur du nav */
 }
 
 nav {
     background-color: #353535;
     width: 100%;
+    position: fixed; 
+    top: 0;           /* <-- pour le coller en haut */
+    left: 0;
+    z-index: 1000;    /* <-- pour qu’il reste au-dessus du reste du contenu */
 }
 
 nav > ul{
