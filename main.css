@@ -1,20 +1,25 @@
 body {
-    font-family: 'Source code pro', Calibri, serif;
+    font-family: 'Modesto', 'Cinzel', 'Georgia', serif;
     margin: 0;
     padding: 0;
     padding-top: 70px; /* <-- ajustez selon la hauteur du nav */
 }
 
 nav {
-    background-image: url('src/img/background-navbar.jpg'); /* chemin relatif ou absolu */
-    background-size: cover;      /* couvre tout l'espace */
+    height: 150px;
+    background-image: url('src/img/navbar_backG.webp'); /* chemin relatif ou absolu */
     background-position: center; /* centre l'image */
-    background-repeat: no-repeat;    
     width: 100%;
     position: fixed; 
     top: 0;           /* <-- pour le coller en haut */
     left: 0;
     z-index: 1000;    /* <-- pour qu’il reste au-dessus du reste du contenu */
+}
+
+nav ul {
+    height: 100%;
+    display: flex;
+    align-items: center;
 }
 
 nav > ul{
@@ -36,6 +41,13 @@ nav > ul > li{
 nav > ul > li > a{
     padding: 20px 30px;
     color: brown;
+    background-color: rgba(0, 0, 0, 0.7); /* Fond noir semi-transparent */
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+nav > ul > li > a:hover {
+    background-color: rgba(0, 0, 0, 0.9); /* Plus foncé au survol */
 }
 
 nav li{
