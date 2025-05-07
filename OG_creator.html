@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Créateur de Personnage</title>
+  <link rel="stylesheet" href="main.css">
+  <style>
+
+
+    form {
+      max-width: 600px;
+      margin: 100px auto;
+      padding: 20px;
+      background-color: rgba(0, 0, 0, 0.7);
+      color: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #000;
+    }
+
+    label {
+      display: block;
+      margin-top: 15px;
+      font-weight: bold;
+    }
+
+    input, select, textarea {
+      width: 100%;
+      padding: 10px;
+      margin-top: 5px;
+      border-radius: 5px;
+      border: none;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #b22222;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #8b0000;
+    }
+  </style>
+</head>
+<body>
+
+  <form action="#" method="post">
+    <h2>Créer votre personnage D&D</h2>
+
+    <label for="name">Nom du personnage</label>
+    <input type="text" id="name" name="name" required>
+
+    <label for="race">Race</label>
+    <select id="race" name="race">
+      <option>Humain</option>
+      <option>Eveillé</option>
+      <option>Cabal</option>
+      <option>Psions</option>
+      <option>Eliksnis</option>
+    </select>
+
+    <label for="class">Classe</label>
+    <select id="class" name="class">
+      <option>combattant</option>
+      <option>Ingénieur</option>
+      <option>soigneur</option>
+      <option>Gardien</option>
+    </select>
+
+    <label for="alignment">Alignement</label>
+    <select id="alignment" name="alignment">
+      <option>Loyal Bon</option>
+      <option>Neutre Bon</option>
+      <option>Chaotique Bon</option>
+      <option>Loyal Neutre</option>
+      <option>Neutre</option>
+      <option>Chaotique Neutre</option>
+      <option>Loyal Mauvais</option>
+      <option>Neutre Mauvais</option>
+      <option>Chaotique Mauvais</option>
+    </select>
+
+    <label for="backstory">Histoire du personnage</label>
+    <textarea id="backstory" name="backstory" rows="5"></textarea>
+
+    <button type="submit">Créer le personnage</button>
+  </form>
+
+</body>
+</html>
