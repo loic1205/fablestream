@@ -5,50 +5,59 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Créateur de Personnage</title>
   <link rel="stylesheet" href="main.css">
-  <style>
-
-
-    form {
-      max-width: 600px;
-      margin: 100px auto;
-      padding: 20px;
-      background-color: rgba(0, 0, 0, 0.7);
-      color: white;
-      border-radius: 10px;
-      box-shadow: 0 0 10px #000;
-    }
-
-    label {
-      display: block;
-      margin-top: 15px;
-      font-weight: bold;
-    }
-
-    input, select, textarea {
-      width: 100%;
-      padding: 10px;
-      margin-top: 5px;
-      border-radius: 5px;
-      border: none;
-    }
-
-    button {
-      margin-top: 20px;
-      padding: 10px 20px;
-      font-size: 16px;
-      background-color: #b22222;
-      color: white;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-
-    button:hover {
-      background-color: #8b0000;
-    }
-  </style>
 </head>
 <body>
+    <nav>
+        <ul>
+            <li class="menu">
+                <a href="index.html">Dungeons & Dragons</a>
+                <ul class="submenu">
+                    <li><a href="OG_creator.html">fiche de personnage</a></li>
+                    <li><a href="Z.html">Fiche de pnj</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+
+<!-- Descriptions des races -->
+<section class="flex-section">
+    <div id="card">
+      <h3>Elfe</h3>
+      <p>Les elfes sont des créatures élégantes, agiles, et dotées d'une grande longévité. Ils sont liés à la nature et à la magie.</p>
+    </div>
+    <div id="card">
+      <h3>Nain</h3>
+      <p>Robustes et tenaces, les nains vivent dans les montagnes et sont reconnus pour leur bravoure, leur loyauté, et leur amour des richesses.</p>
+    </div>
+    <div id="card">
+      <h3>Orc</h3>
+      <p>Guerriers féroces, les orcs vivent selon une culture de force et de combat. Beaucoup cherchent à s'affranchir de leur sombre réputation.</p>
+    </div>
+    <div id="card">
+      <h3>Dragonborn</h3>
+      <p>Descendants des dragons, les dragonborn possèdent des souffles élémentaires et une présence imposante sur le champ de bataille.</p>
+    </div>
+  </section>
+
+  <!-- Descriptions des classes -->
+  <section class="flex-section" style="margin-top: 40px;">
+    <div id="card">
+      <h3>Guerrier</h3>
+      <p>Maître des armes, le guerrier est un combattant polyvalent, capable d'encaisser et de frapper fort au cœur de la mêlée.</p>
+    </div>
+    <div id="card">
+      <h3>Magicien</h3>
+      <p>Utilisant des arcanes puissantes, le magicien peut déchaîner des sorts dévastateurs, au prix d'une faible constitution physique.</p>
+    </div>
+    <div id="card">
+      <h3>Voleur</h3>
+      <p>Discret et agile, le voleur excelle dans l'infiltration, la ruse et les attaques critiques surgies de l'ombre.</p>
+    </div>
+    <div id="card">
+      <h3>Clerc</h3>
+      <p>Serviteur divin, le clerc guérit les alliés et combat les morts-vivants à l'aide de pouvoirs sacrés.</p>
+    </div>
+  </section>
 
   <form action="#" method="post">
     <h2>Créer votre personnage D&D</h2>
