@@ -22,6 +22,7 @@
 <!-- Descriptions des races -->
 <section class="flex-section">
     <div id="card">
+      <img src="src/img/Cabal_not_wearing_armor_2.jpeg" alt="Elfe" class="race-img">
       <h3>Elfe</h3>
       <p>Les elfes sont des créatures élégantes, agiles, et dotées d'une grande longévité. Ils sont liés à la nature et à la magie.</p>
     </div>
@@ -59,47 +60,51 @@
     </div>
   </section>
 
-  <form action="#" method="post">
-    <h2>Créer votre personnage D&D</h2>
+ <!-- Formulaire -->
+ <form action="#" method="post">
+  <h2>Créer votre personnage D&D</h2>
 
-    <label for="name">Nom du personnage</label>
-    <input type="text" id="name" name="name" required>
+  <label for="name">Nom du personnage</label>
+  <input type="text" id="name" name="name" required>
 
-    <label for="race">Race</label>
-    <select id="race" name="race">
-      <option>Humain</option>
-      <option>Eveillé</option>
-      <option>Cabal</option>
-      <option>Psions</option>
-      <option>Eliksnis</option>
-    </select>
+  <label for="race">Race</label>
+  <select id="race" name="race">
+    <option>Humain</option>
+    <option>Elfe</option>
+    <option>Nain</option>
+    <option>Orc</option>
+    <option>Dragonborn</option>
+    <option>Autre</option>
+  </select>
 
-    <label for="class">Classe</label>
-    <select id="class" name="class">
-      <option>combattant</option>
-      <option>Ingénieur</option>
-      <option>soigneur</option>
-      <option>Gardien</option>
-    </select>
+  <label for="class">Classe</label>
+  <select id="class" name="class">
+    <option>Guerrier</option>
+    <option>Magicien</option>
+    <option>Voleur</option>
+    <option>Clerc</option>
+    <option>Barde</option>
+    <option>Sorcier</option>
+  </select>
 
-    <label for="alignment">Alignement</label>
-    <select id="alignment" name="alignment">
-      <option>Loyal Bon</option>
-      <option>Neutre Bon</option>
-      <option>Chaotique Bon</option>
-      <option>Loyal Neutre</option>
-      <option>Neutre</option>
-      <option>Chaotique Neutre</option>
-      <option>Loyal Mauvais</option>
-      <option>Neutre Mauvais</option>
-      <option>Chaotique Mauvais</option>
-    </select>
+  <label for="alignment">Alignement</label>
+  <select id="alignment" name="alignment">
+    <option>Loyal Bon</option>
+    <option>Neutre Bon</option>
+    <option>Chaotique Bon</option>
+    <option>Loyal Neutre</option>
+    <option>Neutre</option>
+    <option>Chaotique Neutre</option>
+    <option>Loyal Mauvais</option>
+    <option>Neutre Mauvais</option>
+    <option>Chaotique Mauvais</option>
+  </select>
 
-    <label for="backstory">Histoire du personnage</label>
-    <textarea id="backstory" name="backstory" rows="5"></textarea>
+  <label for="backstory">Histoire du personnage</label>
+  <textarea id="backstory" name="backstory" rows="5"></textarea>
 
-    <button type="submit">Créer le personnage</button>
-  </form>
+  <button type="submit">Créer le personnage</button>
+</form>
 
 </body>
 </html>
