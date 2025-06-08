@@ -2,18 +2,19 @@ body {
     font-family: 'Modesto', 'Cinzel', 'Georgia', serif;
     margin: 0;
     padding: 0;
-    padding-top: 70px; /* <-- ajustez selon la hauteur du nav */
 }
+
+/*
+
+START CSS BARRE DE NAVIGATION !!!
+
+*/
 
 nav {
     height: 150px;
     background-image: url('src/img/traveler.png'); /* chemin relatif ou absolu */
     background-position: center; /* centre l'image */
     width: 100%;
-    position: fixed; 
-    top: 0;           /* <-- pour le coller en haut */
-    left: 0;
-    z-index: 1000;    /* <-- pour qu’il reste au-dessus du reste du contenu */
 }
 
 nav ul {
@@ -82,6 +83,47 @@ nav li:hover .submenu{
     color: burlywood;
     width: 270px;
 }
+
+/*
+
+END CSS BARRE DE NAVIGATION !!!
+
+*/
+
+/*
+
+START CSS BOUTON "TO THE TOP" !!!
+
+*/
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  font-size: 24px;
+  text-decoration: none;
+  background-color: #b22222;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 50%;
+  box-shadow: 0 0 10px #000;
+  transition: background-color 0.3s;
+  z-index: 100;
+}
+
+.scroll-to-top:hover {
+  background-color: #8b0000;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/*
+
+END CSS BOUTON "TO THE TOP" !!!
+
+*/
 
 .flex-section {
     display: flex;
@@ -155,14 +197,14 @@ form {
   }
 
   .intro-lore {
-    background: linear-gradient(to bottom, #0f0f0f, #1c1c1c);
+    background: linear-gradient(to bottom, #0f0f0f, #262169);
     color: #e0e0e0;
     padding: 60px 20px;
     text-align: center;
   }
   
   .lore-container {
-    max-width: 900px;
+    max-width: 70%;
     margin: auto;
     background-color: rgba(10, 10, 10, 0.8);
     padding: 40px;
@@ -181,3 +223,47 @@ form {
     line-height: 1.8;
     margin-bottom: 20px;
   }  
+  .chute-title {
+    text-align: center;
+    color: #FFD700;
+    font-family: 'Cinzel', serif;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .chute-section {
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 80px auto;
+    padding: 20px;
+    max-width: 1100px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px #000;
+  }
+  
+  .chute-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .chute-text {
+    flex: 1 1 55%;
+    padding: 20px;
+    color: #ddd;
+    font-family: 'Cinzel', serif;
+    margin-left: 5%;
+    font-size: 25px;              /* ↑ texte plus lisible */
+  }
+  
+  .chute-text p {
+    margin: 0;
+  }
+  
+  .chute-image img {
+    max-width: 320px;
+    height: auto;
+    border-radius: 10px;
+    border: 2px solid #333;
+  }
+  
