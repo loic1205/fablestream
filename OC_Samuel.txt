@@ -7,3 +7,77 @@ il a user d'une couronne corrompu par la ruche dans sa quête de pouvoir
 sont fidèle conseiller a du pactiser avec la reine sorcière pour le libérer de la malédictions de la couronne.
 
 le transformant en bete de guerrre abyssale
+
+Perso de Sam (background)
+Le chien est en fait un haut dirigeant cabal transformer en bête royale par un rituel de la ruche le tout orchestré par Savathune
+Le perso de Sam et donc un psion de sa garde personnelle qui lui est resté loyal
+Le haut dirigeant pourrait être le fils de dominus ghaul, qui s'appelerai :
+Dov
+Gorov
+Navag
+Voroz
+Ghavan 
+Il aurait donc une relation avec Savathune, déesse de la ruse, un peu comme un occultiste avec le pacte de son démon.
+"Venez affronter votre créateur, mes enfants"
+
+Classe baser sur le rôdeur, ami de la bête 
+Point de vie : 1d10 par niveau de rôdeur 
+PdV par niveau supp : 1d10 + modif de Con
+
+Maîtrises :
+Armures légères, intermédiaires, bouclier
+Armes courantes, armes de guerre 
+
+Jet de sauvegarde : Dex, Int
+
+3 compétences a choisir (+3 dans chaque compétences choisi) :
+Acrobatie
+Discrétion 
+Histoire
+Investigation
+Religion
+Perspicacité 
+Perception
+Survie
+
+
+Équipement :
+Fusil de précision bricoler 
+Deux dagues
+Un kit de bricolage
+Un pacte de la ruche 
+
+Niveau 1
+
+Bonus de maîtrise : +2
+
+Aptitudes de races
+Vit de Mouv 9m
+Chanceux :
+Sur 1 score de 1 sur un jet d'attaque, test de compétence ou jet de sauvegarde, relancer le dé et utiliser le nouveau score.
+Intellect psion :
+Vous bénéficiez d'un avantage sur les jets d'Int.
+
+Aptitudes de classes : choisi en une 
+Pas éthéré 
+(suite à une attaque de corps-à-corps, déplacer vous sans déclencher d'attaque d'opportunités provenant de l'ennemi que vous avez attaquer)
+Agilité intellectuelle 
+(Augmente votre initiative selon votre modificateur d'intelligence)
+Esprit fugace
+(Vos capacités mentales boost vos capacités physiques, augmente la Vit de déplacement de 3m et la distance de saut de 1,5m.)
+
+
+Niveau 2 : choisi en 2
+
+Sorts de niveau 1
+Volée psychique guidée 
+(Conjure 3 flèches psychiques qui traque leur cible, sans jamais louper leur cible, infligeant chacunes 1d4 de dégâts psychiques) 
+Coût : 1A
+Portée : 18m
+Tir psychique
+(Infuser de l'énergie psychique sur le canon de votre fusil, votre prochain tir infligera 1d8 de dégâts psychiques en plus et ralentira la cible pendant 2 tour)
+Coût : 1A
+Portée : 18m
+Effets : Vit de déplacement réduite de 50%
+Chaines mentales 
+(
